@@ -46,9 +46,3 @@ Route::get('kontak','BlogController@kontak');
 Route::get('pegawai','PegawaiController@index');
 
 
-
-
-
-
-
-
